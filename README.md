@@ -7,7 +7,7 @@
 Índice | Conteúdo
 -------|----------
 1      | <a href="https://github.com/GabrielFAlmeida/Estrutura-de-dados-em-C/tree/master/Ponteiros">Ponteiros</a> 
-2      | Structs
+2      | <a href="https://github.com/GabrielFAlmeida/Estrutura-de-dados-em-C/tree/master/Structs">Structs</a>
 3      | Pilhas
 4      | Fila
 5      | Lista
