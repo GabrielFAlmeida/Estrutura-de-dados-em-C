@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1538425556 source:f:\iftm\2° periodo\estrutura de dados\fila\ex_dia_29\main.c
+	"fila.h"
+
+1538423356 f:\iftm\2° periodo\estrutura de dados\fila\ex_dia_29\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1538423330 source:f:\iftm\2° periodo\estrutura de dados\fila\ex_dia_29\fila.c
+	"fila.h"
+
+1538423330 source:f:\iftm\2periodo\estrutura de dados\fila\ex_dia_29\fila.c
+	"fila.h"
+
+1538423356 f:\iftm\2periodo\estrutura de dados\fila\ex_dia_29\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1538425556 source:f:\iftm\2periodo\estrutura de dados\fila\ex_dia_29\main.c
+	"fila.h"
+

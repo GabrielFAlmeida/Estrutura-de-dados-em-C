@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1543017540 source:e:\iftm\2° periodo\estrutura de dados\pilha\diamantes_e_areia\main.c
+	"pilha.h"
+
+1543016060 e:\iftm\2° periodo\estrutura de dados\pilha\diamantes_e_areia\pilha.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1543016848 source:e:\iftm\2° periodo\estrutura de dados\pilha\diamantes_e_areia\pilha.c
+	"pilha.h"
+

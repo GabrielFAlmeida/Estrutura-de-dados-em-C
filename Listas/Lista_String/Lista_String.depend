@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1544030262 source:f:\iftm\2° periodo\estrutura de dados\lista\lista_string\lista.c
+	"lista.h"
+
+1544029696 f:\iftm\2° periodo\estrutura de dados\lista\lista_string\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1544030444 source:f:\iftm\2° periodo\estrutura de dados\lista\lista_string\main.c
+	"lista.h"
+
+1544030262 source:f:\iftm\2periodo\estrutura de dados\lista\lista_string\lista.c
+	"lista.h"
+
+1544029696 f:\iftm\2periodo\estrutura de dados\lista\lista_string\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1544030738 source:f:\iftm\2periodo\estrutura de dados\lista\lista_string\main.c
+	"lista.h"
+

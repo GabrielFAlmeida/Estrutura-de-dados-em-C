@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1542744618 source:f:\iftm\2° periodo\estrutura de dados\pilha\pares_e_impares_ordenados\main.c
+	"pilha.h"
+
+1542742154 f:\iftm\2° periodo\estrutura de dados\pilha\pares_e_impares_ordenados\pilha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1542744470 source:f:\iftm\2° periodo\estrutura de dados\pilha\pares_e_impares_ordenados\pilha.c
+	"pilha.h"
+

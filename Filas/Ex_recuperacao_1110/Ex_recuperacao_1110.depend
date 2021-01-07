@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1539113990 source:f:\iftm\2° periodo\estrutura de dados\fila\ex_recuperacao_1110\fila.c
+	"fila.h"
+
+1539113914 f:\iftm\2° periodo\estrutura de dados\fila\ex_recuperacao_1110\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1539114094 source:f:\iftm\2° periodo\estrutura de dados\fila\ex_recuperacao_1110\main.c
+	"fila.h"
+

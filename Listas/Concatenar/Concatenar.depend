@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1544568460 source:f:\iftm\2periodo\estrutura de dados\lista\concatenar\lista.c
+	"lista.h"
+
+1544568454 f:\iftm\2periodo\estrutura de dados\lista\concatenar\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1544567990 source:f:\iftm\2periodo\estrutura de dados\lista\concatenar\main.c
+	"lista.h"
+

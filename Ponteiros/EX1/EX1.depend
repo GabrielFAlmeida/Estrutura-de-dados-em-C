@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533670672 source:e:\iftm\2° periodo\estrutura de dados\ponteiro\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

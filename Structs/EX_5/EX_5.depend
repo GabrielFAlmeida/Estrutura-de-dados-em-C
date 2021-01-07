@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533259164 source:f:\iftm\2° periodo\estrutura de dados\ex_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

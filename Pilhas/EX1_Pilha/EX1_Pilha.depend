@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1537376554 source:f:\iftm\2° periodo\estrutura de dados\pilha\ex1_pilha\main.c
+	"pilha.h"
+
+1537376548 f:\iftm\2° periodo\estrutura de dados\pilha\ex1_pilha\pilha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

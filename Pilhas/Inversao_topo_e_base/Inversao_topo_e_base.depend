@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1542739252 source:f:\iftm\2° periodo\estrutura de dados\pilha\inversao_topo_e_base\main.c
+	"pilha.h"
+
+1542739318 f:\iftm\2° periodo\estrutura de dados\pilha\inversao_topo_e_base\pilha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1542739810 source:f:\iftm\2° periodo\estrutura de dados\pilha\inversao_topo_e_base\pilha.c
+	"pilha.h"
+

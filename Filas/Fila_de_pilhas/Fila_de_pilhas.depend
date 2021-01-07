@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1543949434 source:f:\iftm\2° periodo\estrutura de dados\fila\fila_de_pilhas\main.c
+	"fila.h"
+
+1542936700 f:\iftm\2° periodo\estrutura de dados\fila\fila_de_pilhas\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1543951216 source:f:\iftm\2° periodo\estrutura de dados\fila\fila_de_pilhas\fila.c
+	"fila.h"
+
+1542938758 source:e:\iftm\2° periodo\estrutura de dados\fila\fila_de_pilhas\main.c
+	"fila.h"
+
+1542936700 e:\iftm\2° periodo\estrutura de dados\fila\fila_de_pilhas\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1543274570 source:e:\iftm\2° periodo\estrutura de dados\fila\fila_de_pilhas\fila.c
+	"fila.h"
+

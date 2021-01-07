@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1538429622 source:f:\iftm\2° periodo\estrutura de dados\fila\ex1_fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"fila.h"
+
+1537982820 f:\iftm\2° periodo\estrutura de dados\fila\ex1_fila\fila.h
+	<stdio.h>
+	<stdlib.h>
+
+1538429422 source:f:\iftm\2° periodo\estrutura de dados\fila\ex1_fila\fila.c
+	"fila.h"
+
+1537984634 source:d:\iftm\2° periodo\estrutura de dados\fila\ex1_fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"fila.h"
+
+1537982820 d:\iftm\2° periodo\estrutura de dados\fila\ex1_fila\fila.h
+	<stdio.h>
+	<stdlib.h>
+
+1538429422 source:e:\iftm\2 ° periodo\estrutura de dados\fila\ex1_fila\fila.c
+	"fila.h"
+
+1537982820 e:\iftm\2 ° periodo\estrutura de dados\fila\ex1_fila\fila.h
+	<stdio.h>
+	<stdlib.h>
+
+1538429622 source:e:\iftm\2 ° periodo\estrutura de dados\fila\ex1_fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"fila.h"
+
+1538429422 source:f:\iftm\2 ° periodo\estrutura de dados\fila\ex1_fila\fila.c
+	"fila.h"
+
+1537982820 f:\iftm\2 ° periodo\estrutura de dados\fila\ex1_fila\fila.h
+	<stdio.h>
+	<stdlib.h>
+
+1538429622 source:f:\iftm\2 ° periodo\estrutura de dados\fila\ex1_fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"fila.h"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1540331542 source:f:\iftm\2° periodo\estrutura de dados\lista\lista_exemplo\lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1540331558 f:\iftm\2° periodo\estrutura de dados\lista\lista_exemplo\lista.h
+
+1540333140 source:f:\iftm\2° periodo\estrutura de dados\lista\lista_exemplo\main.c
+	"lista.h"
+
+1540331542 source:f:\iftm\2 ° periodo\estrutura de dados\lista\lista_exemplo\lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1540331558 f:\iftm\2 ° periodo\estrutura de dados\lista\lista_exemplo\lista.h
+
+1540333140 source:f:\iftm\2 ° periodo\estrutura de dados\lista\lista_exemplo\main.c
+	"lista.h"
+

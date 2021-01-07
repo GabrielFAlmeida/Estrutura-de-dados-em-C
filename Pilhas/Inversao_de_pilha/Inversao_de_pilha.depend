@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1542688054 source:f:\iftm\2° periodo\estrutura de dados\pilha\inversao_de_pilha\main.c
+	"pilha.h"
+
+1542685300 f:\iftm\2° periodo\estrutura de dados\pilha\inversao_de_pilha\pilha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1542687576 source:f:\iftm\2° periodo\estrutura de dados\pilha\inversao_de_pilha\pilha.c
+	"pilha.h"
+
+1542688054 source:f:\iftm\2periodo\estrutura de dados\pilha\inversao_de_pilha\main.c
+	"pilha.h"
+
+1542685300 f:\iftm\2periodo\estrutura de dados\pilha\inversao_de_pilha\pilha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1542687576 source:f:\iftm\2periodo\estrutura de dados\pilha\inversao_de_pilha\pilha.c
+	"pilha.h"
+

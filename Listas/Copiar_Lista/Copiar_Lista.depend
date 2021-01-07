@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1544576556 source:f:\iftm\2periodo\estrutura de dados\lista\copiar_lista\main.c
+	"lista.h"
+
+1544575884 f:\iftm\2periodo\estrutura de dados\lista\copiar_lista\lista.h
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+

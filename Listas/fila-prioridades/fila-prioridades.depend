@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1525264632 source:c:\estrutura de dados\fila-prioridades\main.c
+	"priority-fifo.h"
+	<windows.h>
+
+1525264845 c:\estrutura de dados\fila-prioridades\priority-fifo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1527275452 source:f:\iftm\2periodo\estrutura de dados\lista\fila-prioridades\main.c
+	"priority-fifo.h"
+	<windows.h>
+
+1527275452 f:\iftm\2periodo\estrutura de dados\lista\fila-prioridades\priority-fifo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1527275452 source:f:\iftm\2periodo\estrutura de dados\lista\fila-prioridades\priority-fifo.c
+	"priority-fifo.h"
+

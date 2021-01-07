@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1544574708 source:f:\iftm\2periodo\estrutura de dados\lista\filtra_lista\lista.c
+	"lista.h"
+
+1544574770 f:\iftm\2periodo\estrutura de dados\lista\filtra_lista\lista.h
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+
+1544574796 source:f:\iftm\2periodo\estrutura de dados\lista\filtra_lista\main.c
+	"lista.h"
+
