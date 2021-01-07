@@ -8,6 +8,6 @@
 -------|----------
 1      | <a href="https://github.com/GabrielFAlmeida/Estrutura-de-dados-em-C/tree/master/Ponteiros">Ponteiros</a> 
 2      | <a href="https://github.com/GabrielFAlmeida/Estrutura-de-dados-em-C/tree/master/Structs">Structs</a>
-3      | Pilhas
-4      | Fila
-5      | Lista
+3      | <a href="https://github.com/GabrielFAlmeida/Estrutura-de-dados-em-C/tree/master/Pilhas">Pilhas</a>
+4      | <a href="https://github.com/GabrielFAlmeida/Estrutura-de-dados-em-C/tree/master/Filas">Fila</a>
+5      | <a href="https://github.com/GabrielFAlmeida/Estrutura-de-dados-em-C/tree/master/Listas">Lista</a>
