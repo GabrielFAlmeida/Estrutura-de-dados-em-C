@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------------------
 ## Descrição do repositório: Repositório destinado a upload de códigos relacionados ao meu conhecimento em linguagem C, no ramo de estrutura de dados.
 ---------------------------------------------------------------------------------------
-#Tabela de identificação de conteúdos relacionados ao assunto.
+# Tabela de identificação de conteúdos relacionados ao assunto.
 
 Índice | Conteúdo
 -------|----------
