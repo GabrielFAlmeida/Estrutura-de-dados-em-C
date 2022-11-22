@@ -1,6 +1,6 @@
 # Repositório de estrutura de dados em C
 ---------------------------------------------------------------------------------------
-## Descrição do repositório: Repositório destinado a upload de códigos relacionados ao meu conhecimento em linguagem C, no ramo de estrutura de dados.
+## Descrição do repositório: Repositório destinado a upload de códigos relacionados ao meu conhecimento adquiridos durante a graduação, no ramo de estrutura de dados.
 ---------------------------------------------------------------------------------------
 ### Tabela de identificação de conteúdos relacionados ao assunto.
 
